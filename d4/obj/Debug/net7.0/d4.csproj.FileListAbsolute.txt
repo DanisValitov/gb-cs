@@ -1,0 +1,15 @@
+/Users/danisvalitov/Desktop/STUDY/c#/d4/bin/Debug/net7.0/d4
+/Users/danisvalitov/Desktop/STUDY/c#/d4/bin/Debug/net7.0/d4.deps.json
+/Users/danisvalitov/Desktop/STUDY/c#/d4/bin/Debug/net7.0/d4.runtimeconfig.json
+/Users/danisvalitov/Desktop/STUDY/c#/d4/bin/Debug/net7.0/d4.dll
+/Users/danisvalitov/Desktop/STUDY/c#/d4/bin/Debug/net7.0/d4.pdb
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.csproj.AssemblyReference.cache
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.AssemblyInfoInputs.cache
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.AssemblyInfo.cs
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.csproj.CoreCompileInputs.cache
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.dll
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/refint/d4.dll
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.pdb
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/d4.genruntimeconfig.cache
+/Users/danisvalitov/Desktop/STUDY/c#/d4/obj/Debug/net7.0/ref/d4.dll
